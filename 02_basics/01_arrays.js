@@ -34,3 +34,5 @@ console.log("C",myArr)
 
 //  1) sLCIES DO NOT CHANGE THE ORIGINAL ARRAY (does not include the last element also)
 //  2) sPLICE DO NOT CHANGE THE ORIGINAL ARRAY(includes the last element also)
+
+
